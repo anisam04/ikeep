@@ -1,4 +1,4 @@
-[Launch App](https://ikeep-app.herokuapp.com/)
+<!-- [Launch App](https://ikeep-app.herokuapp.com/) -->
 
 # About the Project
 iKeep - This note taking app is designed to help you take notes quickly and easily. You can create new notes and add them to your notes list. You can also *edit* and delete existing notes.<br>
