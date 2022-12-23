@@ -29,6 +29,7 @@ iKeep - This note taking app is designed to help you take notes quickly and easi
 
 # ❗Challenges
 * Authentication was a pain point as I was tackling this for the first time and also connecting the backend with frontend which was also a first for me.
+* Heroku/Github Pages/Replit deployment.
 * Understanding and implementing some of the Hooks(especially UseContext) took some time.
 
 # 🍧Icebox Items
